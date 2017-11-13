@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+import Foundation
 
 protocol ShimmerEffect {
     var animationDuration: TimeInterval { set get }
